@@ -1,0 +1,1 @@
+Autoscope: A Chrome extension revolutionizing the Gradescope submission workflow for education, integrating web scraping and Google Cloud Vision AI to automate and annotate submissions. Features include a Flask backend for real-time data processing and clever use of Selenium and BeautifulSoup to navigate Gradescope's frontend.
